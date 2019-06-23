@@ -1,0 +1,19 @@
+{
+  "name": "serverless-plugin-share",
+  "version": "1.0.0",
+  "description": "A serverless plugin to easily share CloudFormation template and code's artifact produced by serverless.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaru00/serverless-plugin-share.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "Fabio Gollinucci <fbgolly@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daaru00/serverless-plugin-share/issues"
+  },
+  "homepage": "https://github.com/daaru00/serverless-plugin-share#readme"
+}
